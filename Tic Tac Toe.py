@@ -11,9 +11,9 @@ def print_board(board):
     print()
     print()
     print("\t" + board[0] + "|" + board[1] + "|" + board[2])
-    print("\t ---|---|---")
+    print("\t---|---|---")
     print("\t" + board[3] + "|" + board[4] + "|" + board[5])
-    print("\t ---|---|---")
+    print("\t---|---|---")
     print("\t" + board[6] + "|" + board[7] + "|" + board[8])
 
 
